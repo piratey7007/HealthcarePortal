@@ -20,12 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Pages/Authentication.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Pages/FAQs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRkFRcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Pages/FetchData.razor]
@@ -36,26 +44,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Pages/Question.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUXVlc3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Shared/Logo.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Shared/RedirectToLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1JlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-78ab4aqxdy
-
-[/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-dianhi67uv

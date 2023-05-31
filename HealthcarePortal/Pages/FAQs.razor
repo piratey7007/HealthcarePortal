@@ -1,13 +1,26 @@
 @page "/faqs"
+@using HealthcarePortal.Data.Services
+@inject QuestionService QuestionService
+
 <PageTitle>FAQs</PageTitle>
 
 <h3>FAQs</h3>
 <ul>
-    <li>
-        <Question Query="" Answer=""/>
-    </li>
+    @if (_questions != null)
+    {
+        foreach (var question in _questions)
+        {
+            <li>
+                <Question Query="@question.Query" Answer="@question.Answer"/>
+            </li>
+        }
+    }
 </ul>
 
 @code {
-    
+    private List<HealthcarePortal.Data.Models.Question>? _questions;
+    protected override async Task OnInitializedAsync()
+    {
+        _questions = await QuestionService.GetQuestionsAsync();
+    }
 }
