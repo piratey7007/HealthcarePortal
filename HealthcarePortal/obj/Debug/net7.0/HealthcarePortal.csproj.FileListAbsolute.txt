@@ -831,3 +831,6 @@
 /Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/obj/Debug/net7.0/refint/HealthcarePortal.dll
 /Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/obj/Debug/net7.0/HealthcarePortal.pdb
 /Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/obj/Debug/net7.0/ref/HealthcarePortal.dll
+/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/obj/Debug/net7.0/scopedcss/projectbundle/HealthcarePortal.bundle.scp.css
+/Users/mx/dev/RiderProjects/HealthcarePortal/HealthcarePortal/bin/Debug/net7.0/package.json

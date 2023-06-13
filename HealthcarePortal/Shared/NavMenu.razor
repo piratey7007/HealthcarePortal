@@ -1,19 +1,22 @@
-﻿<header>
-    <Logo />
+﻿<header class="flex justify-center md:hidden">
+    <Logo type="text"/>
+</header>
+<header class="flex max-md:hidden">
+    <Logo/>
     <nav>
-        <ul>
-            <li>
-                <NavLink href="/">
+        <ul class="flex gap-4">
+            <li class="underline-offset-1 border-b-2 after:-z-10 py-2 px-4 border-black after:bg-black relative after:absolute after:bottom-0 after:top-0 after:right-0 after:left-0 after:m-auto after:content-[''] text-black hover:text-white hover:after:w-full after:w-0 after:h-full after:transition-all after:duration-200">
+                <NavLink href="/" class="">
                     Home
                 </NavLink>
             </li>
-            <li>
-                <NavLink href="/about">
+            <li class="underline-offset-1 border-2">
+                <NavLink href="/about" class="">
                     About
                 </NavLink>
             </li>
-            <li>
-                <NavLink href="/faqs">
+            <li class="underline-offset-1 border-2">
+                <NavLink href="/faqs" class="">
                     FAQs
                 </NavLink>
             </li>
@@ -24,7 +27,3 @@
         Call or Email Us!
     </button>
 </header>
-
-@code {
-    
-}

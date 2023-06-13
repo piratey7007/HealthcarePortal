@@ -17,4 +17,15 @@
       <Folder Include="wwwroot\assets\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Update="Styles\tailwind.css">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+    </ItemGroup>
+    
+    <Target Name="Tailwind" BeforeTargets="Compile">
+        <Exec Command="npx tailwindcss build -i ./Styles/tailwind.css -o ./wwwroot/css/site.css" />
+    </Target>
+    
 </Project>
